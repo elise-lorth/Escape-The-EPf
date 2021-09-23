@@ -1,6 +1,6 @@
 # Escape the EPF
 
-Jeu de cohésion. Il bvous est possible de lancer divers jeux en solo (quizz, memory, puzzles, sudoku, etc.). Des escapes games peuvent être lancés à deux joueurs, commencez par créer une partie et lancez chacun la partie d'un joueur.
+Jeu de cohésion. Il vous est possible de lancer divers jeux en solo (quizz, memory, puzzles, sudoku, etc.). Des escapes games peuvent être lancés à deux joueurs, commencez par créer une partie pour deux et lancez chacun la partie d'un joueur.
 
 Le lien à la base de donnée a été rompu, il vous faudra donc passer d'une pièce à l'autre manuellement, attendez votre cohéquipier avant de le faire, il aura besoin de vous !
 
